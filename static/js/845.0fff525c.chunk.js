@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdashboard=self.webpackChunkdashboard||[]).push([[845],{845:(s,a,d)=>{d.r(a),d.d(a,{default:()=>r});var e=d(184);const r=function(s){return(0,e.jsx)("div",{children:"Creds main"})}}}]);
+//# sourceMappingURL=845.0fff525c.chunk.js.map

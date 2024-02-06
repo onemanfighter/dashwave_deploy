@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdashboard=self.webpackChunkdashboard||[]).push([[88],{5088:(e,s,a)=>{a.r(s),a.d(s,{default:()=>n});var d=a(184);const n=function(e){return(0,d.jsx)("div",{children:"Expense Delete"})}}}]);
+//# sourceMappingURL=88.71df7f22.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdashboard=self.webpackChunkdashboard||[]).push([[650],{7650:(e,d,s)=>{s.r(d),s.d(d,{default:()=>a});var r=s(184);const a=function(e){return(0,r.jsx)("div",{children:"Creds delete"})}}}]);
+//# sourceMappingURL=650.455882bf.chunk.js.map

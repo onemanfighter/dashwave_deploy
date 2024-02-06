@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdashboard=self.webpackChunkdashboard||[]).push([[257],{8257:(e,s,a)=>{a.r(s),a.d(s,{default:()=>d});var r=a(184);const d=function(e){return(0,r.jsx)("div",{children:"Plans Preview"})}}}]);
+//# sourceMappingURL=257.3395de17.chunk.js.map

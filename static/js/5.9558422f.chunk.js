@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdashboard=self.webpackChunkdashboard||[]).push([[5],{7005:(e,r,s)=>{s.r(r),s.d(r,{default:()=>d});var a=s(184);const d=function(e){return(0,a.jsx)("div",{children:"Profile password reset Screen"})}}}]);
+//# sourceMappingURL=5.9558422f.chunk.js.map

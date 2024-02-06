@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdashboard=self.webpackChunkdashboard||[]).push([[872],{9872:(a,d,s)=>{s.r(d),s.d(d,{default:()=>r});var e=s(184);function r(a){return(0,e.jsx)("div",{children:"Goals Edit"})}}}]);
+//# sourceMappingURL=872.74343119.chunk.js.map
